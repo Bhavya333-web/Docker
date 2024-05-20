@@ -4,5 +4,11 @@ This repository contains project related DevOps.
 Author - Bhavya Mittal
 <br>
 Topic - DevOps
-Project 1 - Docker 
+<br>
+Beginner Projects
+<br>
+Project 1 - Docker
+<br>
 Project 2 - Kubernetes
+<br>
+
