@@ -1,14 +1,12 @@
-# Internship-Projects
+# Internship-Project 
 This repository contains project related DevOps.
 <br>
 Author - Bhavya Mittal
 <br>
 Topic - DevOps
 <br>
-Beginner Projects
+Beginner Project - 01
 <br>
-Project 1 - Docker
-<br>
-Project 2 - Kubernetes
-<br>
+Project 1 - Docker at Beginner Level 
+
 
