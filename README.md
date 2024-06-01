@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Internship-Project 01
+<br>
+These projects are for my internship purposes in the company Gowox.
+<br>
+This repository contains project related DevOps.
+<br>
+Author - Bhavya Mittal
+<br>
+Topic - DevOps
+<br>
+Beginner Project - 01
+<br>
+Project 1 - Docker at Beginner Level 
+
+
